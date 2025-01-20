@@ -28,4 +28,3 @@ module.exports = {
     require("./plugins/diagonalRadius"),
   ],
 };
-npm install --save-dev --save-exact prettier
